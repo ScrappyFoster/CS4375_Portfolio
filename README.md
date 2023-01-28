@@ -5,4 +5,4 @@ My Portfolio for CS4375 machine learning
 
 This assigment is an overview of Machine learning from my perspective at the start of the semester.
 
-The assigment overview can be viewed [here] {Overview_of_ML.pdf}
+The assigment overview can be viewed [here] (Overview_of_ML.pdf)
